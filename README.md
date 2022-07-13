@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Izuchukwu Eric</h1>
-<h3 align="center">I’m a Full-Stack Engineer with a specialty in blockchain. I have been building in the blockchain space for over a year. where I've built user interfaces for applications integrating with Ethereum. Most applications have been built in React-Redux, and I've had some opportunity to do full-stack work using Node.js.</h3>
+<h3 align="center">I’m a Full-Stack Engineer with an interest in blockchain. I have been building in the blockchain space for over a year. where I've built user interfaces for applications integrating with Ethereum. Most applications have been built in React-Redux, and I've had some opportunity to do full-stack work using Node.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izuchukwu-eric&label=Profile%20views&color=0e75b6&style=flat" alt="izuchukwu-eric" /> </p>
 
