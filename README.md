@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Decentralized application**
 
-- 🤝 I’m looking for help with [bringing people into the tech space, and helping them grow their careers by contributing to open-source.](https://www.hubswitch.org/)
+- 🤝 I’m looking to help with [bringing people into the tech space, and helping them grow their careers by contributing to open-source.](https://www.hubswitch.org/)
 
 - 👨‍💻 All of my projects are available at [https://izuchukwu-onukwube.web.app/](https://izuchukwu-onukwube.web.app/)
 
@@ -22,6 +22,8 @@
 - 💬 Ask me about **anything JavaScript**
 
 - 📫 How to reach me **onukwubeizu@gmail**
+
+- ⚡ Fun fact I like Football.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
