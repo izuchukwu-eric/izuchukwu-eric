@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Solidity, web3.0**
 
-- 👯 I’m looking to collaborate on **Decentralized application**
+- 👯 I’m looking to collaborate on **Building Decentralized applications**
 
 - 🤝 I’m looking to help with [bringing people into the tech space, and helping them grow their careers by contributing to open-source.](https://www.hubswitch.org/)
 
@@ -23,9 +23,9 @@
 
 - 💬 Ask me about **anything JavaScript**
 
-- 📫 How to reach me **onukwubeizu@gmail**
+- 📫 How to reach me **onukwubeizu@gmail.com**
 
-- ⚡ Fun fact I like Football.
+- ⚡ Fun fact I love Football and Manchester United is the team.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
