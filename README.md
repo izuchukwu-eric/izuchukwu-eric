@@ -26,6 +26,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<a href="https://dev.to/codewitheric/how-to-create-a-private-blockchain-network-using-go-ethereumgeth-4inn"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
