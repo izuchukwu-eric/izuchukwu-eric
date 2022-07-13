@@ -28,6 +28,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 - [How to create a private blockchain network using Go-Ethereum(geth).](https://dev.to/codewitheric/how-to-create-a-private-blockchain-network-using-go-ethereumgeth-4inn)
+- [The Genesis.Json file - A quick intro](https://dev.to/codewitheric/the-genesisjson-file-a-quick-intro-28pd)
+- [Defining the Blockchain using Bitcoin as an example](https://dev.to/codewitheric/defining-the-blockchain-using-bitcoin-as-an-example-1l42)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
