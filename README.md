@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Izuchukwu Eric</h1>
 <h3 align="center">Full-Stack Engineer with interest in building products in Fintech, Web3, AI & SaaS industries.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=izuchukwu-eric&label=Profile%20views&color=0e75b6&style=flat" alt="izuchukwu-eric" /> </p>
+
 <p align="left"> <a href="https://twitter.com/codewitheric" target="blank"><img src="https://img.shields.io/twitter/follow/codewitheric?logo=twitter&style=for-the-badge" alt="codewitheric" /></a> </p>
 
 - 🔭 I’m currently working on **Abacus**
