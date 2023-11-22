@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Izuchukwu Eric</h1>
-<h3 align="center">Full-Stack Engineer with interest in building products in Fintech, Web3, AI & SaaS industries.</h3>
+<h3 align="center">Full-Stack Engineer with interest in building products in Fintech, Web3, AI & SaaS industries. Passionate about contributing to Open-source projects and Developer tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izuchukwu-eric&label=Profile%20views&color=0e75b6&style=flat" alt="izuchukwu-eric" /> </p>
 
