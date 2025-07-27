@@ -45,7 +45,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izuchukwu-eric&show_icons=true&locale=en&layout=compact" alt="izuchukwu-eric" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izuchukwu-eric&show_icons=true&locale=en" alt="izuchukwu-eric" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izuchukwu-eric&" alt="izuchukwu-eric" /></p>
 
