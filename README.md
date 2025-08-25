@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/codewitheric" target="blank"><img src="https://img.shields.io/twitter/follow/codewitheric?logo=twitter&style=for-the-badge" alt="codewitheric" /></a> </p>
 
-- 🔭 I’m currently working on **Abacus**
+- 🔭 I’m currently working on **GoFree**
 
 - 🌱 I’m currently learning **Solidity, web3.0**
 
