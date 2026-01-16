@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/codewitheric" target="blank"><img src="https://img.shields.io/twitter/follow/codewitheric?logo=twitter&style=for-the-badge" alt="codewitheric" /></a> </p>
 
-- 🔭 I’m currently working on building AI Agents for enterprise
+- 🔭 I’m currently working on **Building AI Agents for enterprise**
 
-- 👯 I’m looking to collaborate on **Building Decentralized applications**
+- 👯 I’m looking to collaborate on **Building AI-powered applications**
 
 - 🤝 I’m looking to help with [bringing people into the tech space, and helping them grow their careers by contributing to open-source.](https://www.hubswitch.org/)
 
