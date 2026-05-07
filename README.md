@@ -9,13 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Building AI-powered applications**
 
-- 🤝 I’m looking to help with [bringing people into the tech space, and helping them grow their careers by contributing to open-source.](https://www.hubswitch.org/)
-
-- 🌎 Doing the DevRel thing at [HubswitchAfrica](https://hubswitch.org)
-
 - 👨‍💻 All of my projects are available at [https://izuchukwu-onukwube.web.app/](https://izuchukwu-onukwube.web.app/)
 
-- 📝 I regularly write articles on [https://dev.to/codewitheric](https://dev.to/codewitheric)
+- 📝 I irregularly write articles on [https://dev.to/codewitheric](https://dev.to/codewitheric)
 
 - 💬 Ask me about **anything JavaScript**
 
